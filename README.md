@@ -10,3 +10,6 @@
 * `git branch branchName` - create local branch named `BranchName`
 * `git checkout branchName` move to branch `branchName`
 * `git branch` - display local branch
+`git push -u origin testBranch`
+
+`git checkout -b new branch` - create an check out branch `new branch`
