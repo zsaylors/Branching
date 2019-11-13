@@ -9,3 +9,4 @@
 ### Basic Branching
 * `git branch branchName` - create local branch named `BranchName`
 * `git checkout branchName` move to branch `branchName`
+* `git branch` - display local branch
