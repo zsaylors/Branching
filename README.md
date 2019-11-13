@@ -12,4 +12,4 @@
 * `git branch` - display local branch
 `git push -u origin testBranch`
 
-`git checkout -b new branch` - create an check out branch `new branch`
+`git checkout -b new branch` - create an check out branch `new branch`.
